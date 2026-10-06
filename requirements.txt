@@ -1,0 +1,7 @@
+vkbottle
+aiogram
+python-dotenv
+httpx
+python-telegram-bot
+telethon
+python-socks
